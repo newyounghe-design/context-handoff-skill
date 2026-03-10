@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#1a1a2e"/>
+
+  <!-- Left document (source) -->
+  <rect x="20" y="30" width="35" height="45" rx="3" fill="#4a5568" stroke="#718096" stroke-width="1.5"/>
+  <line x1="26" y1="40" x2="49" y2="40" stroke="#a0aec0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="26" y1="48" x2="45" y2="48" stroke="#a0aec0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="26" y1="56" x2="49" y2="56" stroke="#a0aec0" stroke-width="2" stroke-linecap="round"/>
+  <line x1="26" y1="64" x2="40" y2="64" stroke="#a0aec0" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Arrow (handoff) -->
+  <path d="M58 52 L70 52 L70 46 L82 55 L70 64 L70 58 L58 58 Z" fill="#48bb78"/>
+
+  <!-- Right document (destination) -->
+  <rect x="73" y="53" width="35" height="45" rx="3" fill="#2d3748" stroke="#48bb78" stroke-width="2"/>
+  <line x1="79" y1="63" x2="102" y2="63" stroke="#68d391" stroke-width="2" stroke-linecap="round"/>
+  <line x1="79" y1="71" x2="98" y2="71" stroke="#68d391" stroke-width="2" stroke-linecap="round"/>
+  <line x1="79" y1="79" x2="102" y2="79" stroke="#68d391" stroke-width="2" stroke-linecap="round"/>
+  <line x1="79" y1="87" x2="93" y2="87" stroke="#68d391" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Checkmark on destination -->
+  <circle cx="100" cy="58" r="8" fill="#48bb78"/>
+  <path d="M96 58 L99 61 L105 54" stroke="white" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

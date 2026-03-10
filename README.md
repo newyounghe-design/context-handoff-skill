@@ -1,6 +1,21 @@
-# Context Handoff Skill for Claude Code
+<p align="center">
+  <img src="logo.svg" alt="Context Handoff Logo" width="128" height="128">
+</p>
 
-[中文](#中文介绍) | [English](#english)
+<h1 align="center">Context Handoff Skill</h1>
+
+<p align="center">
+  <strong>Preserve conversation context across Claude Code sessions</strong>
+</p>
+
+<p align="center">
+  <a href="#english">English</a> | <a href="#中文介绍">中文</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+  <img src="https://img.shields.io/badge/claude--code-skill-blue.svg" alt="Claude Code Skill">
+</p>
 
 ---
 
